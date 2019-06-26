@@ -1,5 +1,7 @@
 # Built application files
-build/
+*.apk
+*.ap_
+*.aab
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -9,9 +11,6 @@ build/
 
 # Gradle files
 .gradle/
-
-# Signing files
-.signing/
 
 # User-specific configurations
 *.iml
